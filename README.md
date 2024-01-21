@@ -4,22 +4,23 @@
 </p>
 
 <h1>osTicket - Preconditions and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial spells out the preconditions and installation procedures of Osticket, an open-source help desk ticketing system.<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Virtual Machines in Microsoft Azure Environment
+- Windows Remote Desktop
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- 2 VCPUs to improve performance and responsiveness in case of concurrent use and large influx of requests and database queries. 
 
 <h2>List of Prerequisites</h2>
 
 - Enable IIS to host website osTicket
-- Install MySQL server for database in osTicket
+- Install MySQL server which will be used by Ostickets to store application data such as configurations, users and ticket details. 
 - Installing/configuring osTicket
 - Enabled osTicket to fetch/process email
 - Create database for osTicket
@@ -30,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/pZ5M0bB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the above picture, I'm enabling IIS so i will be able to host osTicket on Windows.
+In the above picture, I'm enabling IIS, a native web server for Windows to where Osticket will be hosted.
 </p>
 <br />
 

@@ -30,11 +30,19 @@ This tutorial spells out the preconditions and installation procedures of Ostick
 
 <h2>Installation Steps</h2>
 
+1. Create a tenant and subscription in Microsoft Azure
+2. Create a Resource Group
+3. Create and deploy a virtual machine
 <p>
 <img src="https://i.imgur.com/pZ5M0bB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the above picture, I'm enabling IIS, a native web server for Windows where Osticket will be hosted.
+4. Install and configure IIS, a native web server for Windows where Osticket will be hosted. 
+  - Ensure common http features and Common Gateway Interface (CGI) are turned on 
+  - Verify IIS installation and configuration by intering local host IP (127.0.0.1) in the address bar. 
+  <p>
+<img src="https://i.imgur.com/pZ5M0bB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 </p>
 <br />
 

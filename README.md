@@ -34,7 +34,7 @@ This tutorial spells out the preconditions and installation procedures of Ostick
 <img src="https://i.imgur.com/pZ5M0bB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the above picture, I'm enabling IIS, a native web server for Windows to where Osticket will be hosted.
+In the above picture, I'm enabling IIS, a native web server for Windows where Osticket will be hosted.
 </p>
 <br />
 

@@ -15,6 +15,9 @@ This tutorial spells out the preconditions and installation procedures of Ostick
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+
+<h2>Processing Capacity </h2>
+
 - 2 VCPUs to improve performance and responsiveness in case of concurrent use and large influx of requests and database queries. 
 
 <h2>List of Prerequisites</h2>

@@ -41,20 +41,21 @@ This tutorial spells out the preconditions and installation procedures of Ostick
 </p>
 <br />
 2. Locate "Turn Windows Features on or off" to Install and configure IIS. IIS a native web server for Windows where Osticket will be hosted. 
-  - Ensure common http features and Common Gateway Interface(CGI) are turned on 
-
+  - Ensure common http features and Common Gateway Interface (CGI) are turned on 
+<p>
+<p>
   <p>
+    <p>
 <img src="https://i.imgur.com/szxP0CF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
 <br />
-
+<p>
   - Verify IIS installation and configuration by intering local host IP (127.0.0.1) in the address bar. 
-  <p>
-<img src="https://i.imgur.com/pvHSKv1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <p>
+<img src="https://i.imgur.com/pvHSKv1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/hxGUMyi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

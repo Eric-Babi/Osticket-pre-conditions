@@ -34,14 +34,14 @@ This tutorial spells out the preconditions and installation procedures of Ostick
 
 <h2>Installation Steps</h2>
 
-1. Establish a Remote Desktop Connection with VM using credentials created in Azure Portal. 
+1. Establish a Remote Desktop Connection with VM-osTicket using credentials created in Azure Portal. 
 <p>
 <img src="https://i.imgur.com/NuNazQS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
 <br />
-2. Locate "Turn Windows Features on or off" to Install and configure IIS. IIS a native web server for Windows where Osticket will be hosted. 
-  - Ensure common http features and Common Gateway Interface (CGI) are turned on 
+2.Install and configure IIS. 
+I opened VM-osTicket and enabled IIS with CGI using the following steps: open the Control Panel -> click Programs -> click "turn windows features on or off", next find "Internet Information Services", enable it and expand it, -> expand "World Wide Web Services" -> expand "Application Development Features", find CGI and enable it, then clicked ok. 
 <p>
 <p>
   <p>
@@ -57,6 +57,8 @@ This tutorial spells out the preconditions and installation procedures of Ostick
 </p>
 </p>
 
+3. Download and install PHP Manager
+   - download link (https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link)
 <p>
 <img src="https://i.imgur.com/hxGUMyi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>

@@ -160,9 +160,17 @@ I've enabled osTicket to fetch & process email.
 osTicket database has been created!
 </p>
 <br />
-
+11. Install and configure HeidiSql database client
 <p>
-<img src="https://i.imgur.com/fPRGNNx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  - download link (https://www.heidisql.com/installers/HeidiSQL_12.3.0.6589_Setup.exe )
+</p>
+<p></p>
+-	Open heidiSQL
+<p></p>
+-	Create new session using root/Password1
+<p></p>
+-	Connect to the session 
+<p>
 </p>
 <p>
 osTicket installation is now complete!

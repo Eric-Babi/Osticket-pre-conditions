@@ -102,6 +102,19 @@ Locate "Internet Information Services", enable it and expand it, -> expand "Worl
 <br />
 
 <p>
+8. Open IIS as Admin
+  <p>
+    <p>
+  - Register PHP from within IIS 
+      <p>
+  <p>
+<img src="https://i.imgur.com/lyOH8L3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+    </p>
+  </p>
+
+9. Download oSticket
+<p>
+  
 <img src="https://i.imgur.com/Nn11Jxp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>

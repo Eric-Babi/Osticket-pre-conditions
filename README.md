@@ -111,11 +111,24 @@ Locate "Internet Information Services", enable it and expand it, -> expand "Worl
 <img src="https://i.imgur.com/lyOH8L3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
     </p>
   </p>
-
+ - Restart or Stop and Start IIS in to apply changes
+ <p>
+   <p>
+   </p>
+ </p>
+ 
 9. Download oSticket
 <p>
-  
-<img src="https://i.imgur.com/Nn11Jxp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <p>
+- copy "upload" folder from oSticket downloaded zipfile to C:\inetpub\wwwroot 
+    <p>
+- rename the folder from "upload" to "oSticket"
+<p>
+      <p>
+10. In IIS admin window, I locate "sites", "oSticket" and then click (Browse*:80(http))
+        <p>
+          
+<img src="https://i.imgur.com/rPMhc6b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now i'm installing/configuring osTicket.

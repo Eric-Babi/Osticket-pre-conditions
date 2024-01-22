@@ -132,13 +132,23 @@ Locate "Internet Information Services", enable it and expand it, -> expand "Worl
 </p>
 <p>
 Now i'm installing/configuring osTicket.
+     <p>
+          
+<img src="https://i.imgur.com/pj76yj1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 </p>
 <br />
-
 <p>
+I have enabled the recommended extension to allow Osticket to fetcg and process emails
+<p>
+  <p>
 <img src="https://i.imgur.com/wy9yJOQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+- locate "ost-sampleconfig.php" in C:\inetpub\wwwroot\oSticket\include and rename it to "ost-config.php"
+
+  <p>
+    <p>
 I've enabled osTicket to fetch & process email.
 </p>
 <br />

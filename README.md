@@ -57,10 +57,12 @@ I opened VM-osTicket and enabled IIS with CGI using the following steps: open th
 </p>
 </p>
 
-3. Download and install PHP Manager
+3. Download and install PHP Manager for IIS
    - download link (https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link)
 <p>
-<img src="https://i.imgur.com/hxGUMyi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+4. Download and install rewrite module 
+  - dowload link (https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link)
 </p>
 <p>
 Here i'm installing a server for our future database for osTicket.

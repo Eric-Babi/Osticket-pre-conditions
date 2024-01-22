@@ -22,19 +22,20 @@ This tutorial spells out the preconditions and installation procedures of Ostick
 
 <h2>List of Prerequisites</h2>
 
-- Enable IIS to host website osTicket
-- Install MySQL server which will be used by Ostickets to store application data such as configurations, users and ticket details. 
-- Installing/configuring osTicket
-- Enabled osTicket to fetch/process email
-- Create database for osTicket
+- Set-up and deploy compute resources in Microsoft Azure
+- Install / Enable IIS in Windows WITH CGI
+- Install PHP Manager for IIS, Install Rewrite Module, download PHP and install C++ redistributable. 
+- Install and set-up MySQL server
+- Install and set-up HeidiSql as database client
+- Register PHP from within IIS
+- Install and configure osTicket
+- Clean up / Test
 
 <h2>Installation Steps</h2>
 
-1. Create a tenant and subscription in Microsoft Azure
-2. Create a Resource Group
-3. Create and deploy a virtual machine
+1. Establish a Remote Desktop Connection with VM using credentials created in Azure Portal. 
 <p>
-<img src="https://i.imgur.com/pZ5M0bB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="(https://i.imgur.com/NuNazQS.png)" height="80%" width="80%" alt="Remote Connection"/>
 </p>
 <p>
 4. Install and configure IIS, a native web server for Windows where Osticket will be hosted. 

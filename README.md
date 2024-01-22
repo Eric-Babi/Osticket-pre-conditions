@@ -18,7 +18,8 @@ This tutorial spells out the preconditions and installation procedures of Ostick
 
 <h2>Processing Capacity </h2>
 
-- 2 VCPUs to improve performance and responsiveness in case of concurrent use and large influx of requests and database queries. 
+- 4 VCPUs to improve performance and responsiveness in case of concurrent use and large influx of requests and database queries.
+- 16GiB RAM
 
 <h2>List of Prerequisites</h2>
 
@@ -39,11 +40,18 @@ This tutorial spells out the preconditions and installation procedures of Ostick
 </p>
 </p>
 <br />
-4. Install and configure IIS, a native web server for Windows where Osticket will be hosted. 
-  - Ensure common http features and Common Gateway Interface (CGI) are turned on 
+2. Locate "Turn Windows Features on or off" to Install and configure IIS. IIS a native web server for Windows where Osticket will be hosted. 
+  - Ensure common http features and Common Gateway Interface(CGI) are turned on 
+
+  <p>
+<img src="https://i.imgur.com/szxP0CF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<br />
+
   - Verify IIS installation and configuration by intering local host IP (127.0.0.1) in the address bar. 
   <p>
-<img src="https://i.imgur.com/pZ5M0bB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pvHSKv1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
 <br />

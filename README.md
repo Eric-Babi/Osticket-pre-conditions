@@ -35,9 +35,10 @@ This tutorial spells out the preconditions and installation procedures of Ostick
 
 1. Establish a Remote Desktop Connection with VM using credentials created in Azure Portal. 
 <p>
-<img src="(https://i.imgur.com/NuNazQS.png)" height="80%" width="80%" alt="Remote Connection"/>
+<img src="https://i.imgur.com/NuNazQS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
+</p>
+<br />
 4. Install and configure IIS, a native web server for Windows where Osticket will be hosted. 
   - Ensure common http features and Common Gateway Interface (CGI) are turned on 
   - Verify IIS installation and configuration by intering local host IP (127.0.0.1) in the address bar. 

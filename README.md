@@ -40,8 +40,13 @@ This tutorial spells out the preconditions and installation procedures of Ostick
 </p>
 </p>
 <br />
-2.Install and configure IIS. 
-I opened VM-osTicket and enabled IIS with CGI using the following steps: open the Control Panel -> click Programs -> click "turn windows features on or off", next find "Internet Information Services", enable it and expand it, -> expand "World Wide Web Services" -> expand "Application Development Features", find CGI and enable it, then clicked ok. 
+2. Install and configure IIS. 
+</p>
+I opened VM-osTicket and enabled IIS with CGI using the following steps: 
+</p>
+open the Control Panel -> click Programs -> click "turn windows features on or off"
+</p>
+Locate "Internet Information Services", enable it and expand it, -> expand "World Wide Web Services" -> expand "Application Development Features", find CGI and enable it, then clicked ok. 
 <p>
 <p>
   <p>
@@ -56,13 +61,26 @@ I opened VM-osTicket and enabled IIS with CGI using the following steps: open th
 <img src="https://i.imgur.com/pvHSKv1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
-
 3. Download and install PHP Manager for IIS
+<p>
    - download link (https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link)
 <p>
-<p>
 4. Download and install rewrite module 
+<p>
+<p>
   - dowload link (https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link)
+</p>
+
+5. Download and install PHP
+   - download link (https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=share_link)
+<p>
+  - create folder in C drive and name it PHP (C:\\PHP)
+
+  <p></p>
+- Extract PHP files to C:\\PHP
+<p>
+  <p>
+<img src="https://i.imgur.com/PMi9rbx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Here i'm installing a server for our future database for osTicket.

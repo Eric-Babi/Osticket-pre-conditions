@@ -168,7 +168,9 @@ I've enabled osTicket to fetch & process email.
 <p>
   <img src="https://i.imgur.com/PKaBUNZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
 osTicket installation is now complete!
 </p>
 <br />
+<p>
+  <img src="https://i.imgur.com/Q7t8TLO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>

@@ -83,8 +83,22 @@ Locate "Internet Information Services", enable it and expand it, -> expand "Worl
 <img src="https://i.imgur.com/PMi9rbx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here i'm installing a server for our future database for osTicket.
+
+6. Download and Install MySql database
+   <p></p>
+   - download link (https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link ) 
+   <p>
+   - Create root password
+<p>
+<img src="https://i.imgur.com/0e5Wdzs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+   </p>
+</p>
+
+7. Download and install VC++ redistributable
+   <p></p>
+   - download link (https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link) 
 <br />
 
 <p>
